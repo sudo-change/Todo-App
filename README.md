@@ -21,3 +21,4 @@ Run it
 ```bash
 $ npm start
 ```
+![image](https://user-images.githubusercontent.com/63948824/209278112-dc0e78ab-452e-4fc1-a096-f28495bbf41e.png)
